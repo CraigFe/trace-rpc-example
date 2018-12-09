@@ -1,1 +1,1 @@
-{"Task_queue":[[{"name":"increment","params":[],"key":"d"},{"name":"increment","params":[],"key":"g"}],[{"name":"increment","params":[],"key":"b"}]]}
+{"Task_queue":[[{"name":"increment","params":[],"key":"g"}],[{"name":"increment","params":[],"key":"d"},{"name":"increment","params":[],"key":"b"}]]}
